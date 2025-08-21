@@ -1,14 +1,16 @@
-## Hi there 👋
+# 俊俊菌的介绍
+---
+一个来自于中国的游戏开发作者！
 
-Here are some ideas to get you started:
+也可能会发一些游戏的汉化版本！（练习的啦~）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+我正在学习如何开发游戏，请期待我的作品！
+
+---
+A game development author from China!
+
+may also send some Chinese versions of the game! (Practice~)
+
+I'm learning how to develop games, so stay tuned for my work!
+
+---
