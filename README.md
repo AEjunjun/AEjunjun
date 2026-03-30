@@ -70,13 +70,6 @@
 ---
 
 ## 📡 连接网络 | Connect
-
-<p align="center">
-  <!-- 修正后的GitHub数据统计（使用正确的用户名AEjunun） -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AEjunun&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=ffffff" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEjunun&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7E3ACE&text_color=ffffff" alt="Top Languages" height="165"/>
-</p>
-
 <div align="center">
   
 | 通道 | 链接 | 描述 |
