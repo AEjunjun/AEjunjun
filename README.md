@@ -46,6 +46,7 @@
 ### 2025年3月
 **个人博客上线**  
 使用静态生成器搭建了个人博客站点.
+
 ---
 
 ## 📖 数字日志 | Digital Log
@@ -71,9 +72,9 @@
 ## 📡 连接网络 | Connect
 
 <p align="center">
-  <!-- GitHub 数据统计（需替换用户名） -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AEjunjun&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=ffffff" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEjunjun&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7E3ACE&text_color=ffffff" alt="Top Languages" height="165"/>
+  <!-- 修正后的GitHub数据统计（使用正确的用户名AEjunun） -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AEjunun&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=ffffff" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEjunun&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7E3ACE&text_color=ffffff" alt="Top Languages" height="165"/>
 </p>
 
 <div align="center">
@@ -90,7 +91,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,20,30&height=100&section=footer&text=保持创造，保持酷。&fontSize=20&fontColor=fff&animation=fadeIn" alt="页脚横幅" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,20,30&height=100&section=footer&text=就算步伐很小，也要步步前进&fontSize=20&fontColor=fff&animation=fadeIn" alt="页脚横幅" />
 </p>
 
 <p align="center">
