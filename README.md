@@ -1,63 +1,51 @@
+# CatFoxJun · 个人空间
+
+🚀 **独立游戏开发者 | 全栈工程师 | 创意实践者**
+
 ---
 
-## 🏆 高光项目 | Highlights
+## 🧑‍💻 关于我
 
-### 🎮 游戏开发
-<table>
-<tr>
-<td width="50%">
+你好，我是**俊俊菌**，一名致力于独立游戏开发与全栈技术的创作者。  
+我相信“就算步伐很小，也要步步前进”，始终在编码、设计与创意的交汇处探索可能性。
 
-#### **Project: Neon Dream**
-> 赛博朋克叙事解谜游戏 | Unity + C#
+- 🎮 独立游戏开发作者，学习中...
+- 🌐 具备完整的 Web 前后端开发能力，从界面到服务器均可一手搭建
+- 🎨 热爱美术与音乐，常从多元艺术形式中汲取灵感
+- ☕ 喜欢品尝精品咖啡，也喜欢在星空下思考与放松
 
-- 🎨 **视觉风格**: 低多边形 + 霓虹光影的独特美学
-- 🧩 **核心机制**: 环境叙事与物理交互的深度结合
-- 🎵 **音效设计**: 原创合成波配乐，增强沉浸氛围
-- 📱 **平台**: Windows / macOS，计划支持 Nintendo Switch
+> “技术是骨架，创意是灵魂——我一直在路上。”
 
-</td>
-<td width="50%">
+---
 
-#### **Tech Demo: Echo Chamber**
-> 声音可视化技术演示 | Unity Audio API
+## 🛠️ 技术栈
 
-- 🔊 **核心技术**: 实时音频频谱分析
-- 🎨 **渲染**: 基于Shader的自定义粒子系统
-- 📊 **性能**: 稳定 60FPS，支持多声道输入
-- 🔧 **工具链**: 完整编辑器扩展，便于内容创作
+### 前端开发
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 后端与游戏开发
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
-</td>
-</tr>
-</table>
+### 开发工具与平台
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Adobe Creative Suite](https://img.shields.io/badge/Adobe_CC-DA1F26?style=flat&logo=adobe&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL_Studio-000000?style=flat&logo=flstudio&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-### 🌐 全栈应用
-<table>
-<tr>
-<td width="50%">
+---
 
-#### **FoxNote**
-> 极简Markdown笔记系统 | React + Node.js
+## 📅 时间线
 
-- 🚀 **性能**: 首屏加载 < 1s，PWA 支持
-- 📱 **响应式**: 移动端优先设计，完美适配
-- 🔐 **安全**: 端到端加密，本地优先存储
-- 📦 **部署**: Docker 容器化，CI/CD 自动化
+### 2025 - 至今
+**省级 Ubuntu 树莓派编程比赛**  
+在团队中担任关键角色，负责核心模块开发与系统整合
 
-</td>
-<td width="50%">
-
-#### **ServerDash**
-> 服务器监控面板 | TypeScript + Express
-
-- 📊 **监控**: 实时CPU/内存/网络监控
-- 🔔 **告警**: 智能阈值告警，多通道通知
-- 📈 **图表**: 交互式历史数据可视化
-- 🐧 **兼容**: 支持 Ubuntu/Debian/CentOS
-
-</td>
-</tr>
-</table>
-
+### 2025年3月
+**个人博客上线**  
+使用静态生成器搭建了个人博客站点.
 ---
 
 ## 📖 数字日志 | Digital Log
@@ -71,12 +59,6 @@
 > 一个**深色模式优先**的静态站点，承载思考、代码与创造。  
 > 每篇文章都在本地构建，确保速度、隐私与纯粹的表达。
 
-**✨ 博客特色:**
-- 🎨 自定义视觉主题，专注阅读体验
-- 📝 技术笔记 + 开发日志 + 随想片段
-- 🔍 全文搜索，标签分类
-- ⚡ 极速加载，全球 CDN 加速
-- 🌓 自动深色模式，护眼设计
 
 **📌 近期更新:**
 - 🆕 游戏开发中的状态机设计模式实践
