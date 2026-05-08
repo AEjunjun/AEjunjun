@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,20,30&height=200&section=header&text=CatFox%20Jun&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E8%80%85%20%7C%20%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%20%7C%20%E5%88%9B%E6%84%8F%E5%AE%9E%E8%B7%B5%E8%80%85&descAlignY=75&descSize=16&descColor=ddd" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=%E5%96%B5%E5%96%B5%E5%96%B5%EF%BC%8C%E5%96%B5%E5%91%9C%E5%91%9C+uwu+%F0%9F%90%BE;%E5%B0%B1%E7%AE%97%E6%AD%A5%E4%BC%90%E5%BE%88%E5%B0%8F%EF%BC%8C%E4%B9%9F%E8%A6%81%E6%AD%A5%E6%AD%A5%E5%89%8D%E8%BF%9B+%F0%9F%9A%80;Let's+have+some+coffee+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=%e8%bf%98%e6%98%af%e7%8c%ab%e7%8b%90%e5%8f%af%e7%88%b1%e5%96%b5+%f0%9f%90%be;%E5%B0%B1%E7%AE%97%E6%AD%A5%E4%BC%90%E5%BE%88%E5%B0%8F%EF%BC%8C%E4%B9%9F%E8%A6%81%E6%AD%A5%E6%AD%A5%E5%89%8D%E8%BF%9B+%F0%9F%9A%80;Let's+have+some+coffee+%E2%98%95)](https://git.io/typing-svg)
 
 </div>
 
