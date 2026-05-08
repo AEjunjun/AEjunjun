@@ -51,10 +51,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEjunjun&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=00d4ff&text_color=9ca3af" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AEjunjun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies" />
 </p>
 
