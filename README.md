@@ -48,28 +48,37 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AEjunjun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEjunjun&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+![CatFoxJun GitHub Stats](https://github-readme-stats.vercel.app/api?username=AEjunjun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=161b22&title_color=00d4ff&icon_color=7c3aed&text_color=9ca3af)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AEjunjun&theme=tokyonight&hide_border=true" alt="连续提交天数"/>
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEjunjun&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=00d4ff&text_color=9ca3af) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AEjunjun&theme=tokyonight&hide_border=true&background=161b22&stroke=00d4ff&ring=7c3aed&fire=ff6e6e&currStreakLabel=00d4ff&sideLabels=9ca3af&dates=6366f1) |
+|:---:|:---:|
+| **语言使用分布** | **提交连胜** |
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AEjunjun&theme=tokyo-night&hide_border=true&radius=8" width="95%" alt="提交活动图"/>
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=AEjunjun&theme=tokyo_night&cache=5)](https://github.com/AEjunjun)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AEjunjun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="成就"/>
+|  ![Repos](https://github-readme-stats.vercel.app/api/pin/?username=AEjunjun&repo=CatFoxBoke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=00d4ff&text_color=9ca3af)  |  ![Repos](https://github-readme-stats.vercel.app/api/pin/?username=AEjunjun&repo=FreeDom-CatFox-GitHub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=00d4ff&text_color=9ca3af)  |
+|:---:|:---:|
+|  **CatFoxBoke** 博客 |  **FreeDom-CatFox-GitHub** 技术笔记 |
 
 </div>
+
+<p align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=AEjunjun&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10&column=7)
+
+</p>
 
 ---
 
