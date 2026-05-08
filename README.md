@@ -1,20 +1,26 @@
-# CatFoxJun · 俊俊菌个人介绍
+<div align="center">
 
-🚀 **独立游戏开发者 | 全栈工程师 | 创意实践者**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,20,30&height=200&section=header&text=CatFox%20Jun&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E8%80%85%20%7C%20%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%20%7C%20%E5%88%9B%E6%84%8F%E5%AE%9E%E8%B7%B5%E8%80%85&descAlignY=75&descSize=16&descColor=ddd" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=%E5%96%B5%E5%96%B5%E5%96%B5%EF%BC%8C%E5%96%B5%E5%91%9C%E5%91%9C+uwu+%F0%9F%90%BE;%E5%B0%B1%E7%AE%97%E6%AD%A5%E4%BC%90%E5%BE%88%E5%B0%8F%EF%BC%8C%E4%B9%9F%E8%A6%81%E6%AD%A5%E6%AD%A5%E5%89%8D%E8%BF%9B+%F0%9F%9A%80;Let's+have+some+coffee+%E2%98%95)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AEjunjun&color=blueviolet&style=flat-square&label=访客数)
+
+</div>
 
 ---
 
 ## 🧑‍💻 关于我
 
 你好，我是**俊俊菌**，一名致力于独立游戏开发与全栈技术的创作者。  
-我相信“就算步伐很小，也要步步前进”，始终在编码、设计与创意的交汇处探索可能性。
+我相信"就算步伐很小，也要步步前进"，始终在编码、设计与创意的交汇处探索可能性。
 
 - 🎮 独立游戏开发作者，学习中...
 - 🌐 具备完整的 Web 前后端开发能力，从界面到服务器均可一手搭建
 - 🎨 热爱美术与音乐，常从多元艺术形式中汲取灵感
 - ☕ 喜欢品尝精品咖啡还有茶叶，也喜欢在星空下思考与放松
 
-> “喵喵喵，喵呜呜 uwu”
+> "喵喵喵，喵呜呜 uwu"
 
 ---
 
@@ -24,6 +30,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 ### 后端与游戏开发
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -34,18 +41,37 @@
 ![Adobe Creative Suite](https://img.shields.io/badge/Adobe_CC-DA1F26?style=flat&logo=adobe&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/FL_Studio-000000?style=flat&logo=flstudio&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📅 时间线
+## 📊 GitHub 统计仪表板
 
-### 2025 - 至今
-**省级 Ubuntu 树莓派编程比赛**  
-在团队中担任关键角色，负责核心模块开发与系统整合
+<div align="center">
 
-### 2025年3月
-**个人博客上线**  
-使用静态生成器搭建了个人博客站点.
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AEjunjun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEjunjun&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AEjunjun&theme=tokyonight&hide_border=true" alt="连续提交天数"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AEjunjun&theme=tokyo-night&hide_border=true&radius=8" width="95%" alt="提交活动图"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AEjunjun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="成就"/>
+
+</div>
 
 ---
 
@@ -88,7 +114,7 @@
 </p>
 
 <p align="center">
-  <sub><i>本空间持续进化中 · 最后更新于 2025.03.30</i></sub>
+  <sub><i>本空间持续进化中 · 最后更新于 2026.05</i></sub>
   <br/>
   <sub>© 2025 CatFoxJun · 代码构建，思想驱动</sub>
 </p>
