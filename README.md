@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=%E5%96%B5%E5%96%B5%E5%96%B5%EF%BC%8C%E5%96%B5%E5%91%9C%E5%91%9C+uwu+%F0%9F%90%BE;%E5%B0%B1%E7%AE%97%E6%AD%A5%E4%BC%90%E5%BE%88%E5%B0%8F%EF%BC%8C%E4%B9%9F%E8%A6%81%E6%AD%A5%E6%AD%A5%E5%89%8D%E8%BF%9B+%F0%9F%9A%80;Let's+have+some+coffee+%E2%98%95)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AEjunjun&color=blueviolet&style=flat-square&label=访客数)
-
 </div>
 
 ---
