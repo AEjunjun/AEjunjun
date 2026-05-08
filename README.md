@@ -84,7 +84,6 @@
 | 📧 **邮件** | [Catfox_junjun@outlook.com](mailto:Catfox_junjun@outlook.com) | 商务合作、技术交流 |
 | 🏠 **博客** | [aejunjun.github.io/CatFoxBoke/](https://aejunjun.github.io/CatFoxBoke/) | 文章、笔记、思考 |
 | 💼 **GitHub** | [github.com/AEjunjun](https://github.com/AEjunjun) | 项目、代码、贡献 |
-| 🎮 **Itch.io** | *即将上线* | 游戏作品发布页 |
 
 </div>
 
