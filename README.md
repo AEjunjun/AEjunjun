@@ -18,8 +18,6 @@
 
 ### Development Tools and Platforms
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![Adobe Creative Suite](https://img.shields.io/badge/Adobe_CC-DA1F26?style=flat&logo=adobe&logoColor=white)
-![FL Studio](https://img.shields.io/badge/FL_Studio-000000?style=flat&logo=flstudio&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
