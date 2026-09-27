@@ -4,22 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=%e8%bf%98%e6%98%af%e7%8c%ab%e7%8b%90%e5%8f%af%e7%88%b1%e5%96%b5+%f0%9f%90%be;%E5%B0%B1%E7%AE%97%E6%AD%A5%E4%BC%90%E5%BE%88%E5%B0%8F%EF%BC%8C%E4%B9%9F%E8%A6%81%E6%AD%A5%E6%AD%A5%E5%89%8D%E8%BF%9B+%F0%9F%9A%80;Let's+have+some+coffee+%E2%98%95)](https://git.io/typing-svg)
 
-</div>
-
----
-
-## 🧑‍💻 关于我
-
-你好，我是**俊俊菌**，一名致力于独立游戏开发与全栈技术的创作者。  
-我相信"就算步伐很小，也要步步前进"，始终在编码、设计与创意的交汇处探索可能性。
-
-- 🎮 独立游戏开发作者，学习中...
-- 🌐 具备完整的 Web 前后端开发能力，从界面到服务器均可一手搭建
-- 🎨 热爱美术与音乐，常从多元艺术形式中汲取灵感
-- ☕ 喜欢品尝精品咖啡还有茶叶，也喜欢在星空下思考与放松
-
-> "软件与硬件的结合，嵌入式开发"
-
 ---
 
 ## 🛠️ 技术栈
