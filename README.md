@@ -51,9 +51,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,20,30&height=100&section=footer&text=就算步伐很小，也要步步前进&fontSize=20&fontColor=fff&animation=fadeIn" alt="页脚横幅" />
 </p>
-
-<p align="center">
-  <sub><i>本空间持续进化中 · 最后更新于 2026.05</i></sub>
-  <br/>
-  <sub>© 2025 CatFoxJun · 代码构建，思想驱动</sub>
-</p>
