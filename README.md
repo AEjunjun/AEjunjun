@@ -34,10 +34,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AEjunjun&theme=tokyonight&hide_border=true&background=161b22&stroke=00d4ff&ring=7c3aed&fire=ff6e6e&currStreakLabel=00d4ff&sideLabels=9ca3af&dates=6366f1" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AEjunjun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 📖 数字日志 | Digital Log
