@@ -39,10 +39,10 @@
 ## 📡 Connect
 <div align="center">
   
-| 通道 | 链接 | 描述 |
+| Channel | Link | Description |
 |------|------|------|
-| 📧 **邮件** | [Catfox_junjun@outlook.com](mailto:Catfox_junjun@outlook.com) | 商务合作、技术交流 |
-| 💼 **GitHub** | [github.com/AEjunjun](https://github.com/AEjunjun) | 项目、代码、贡献 |
+| 📧 **Email** | [Catfox_junjun@outlook.com](mailto:Catfox_junjun@outlook.com) | Technical cooperation, technical exchange |
+| 💼 **GitHub** | [github.com/AEjunjun](https://github.com/AEjunjun) | Project and Code |
 
 </div>
 
