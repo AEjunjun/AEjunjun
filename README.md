@@ -33,7 +33,7 @@
   
 | Channel | Link | Description |
 |------|------|------|
-| 📧 **Email** | [Catfox_junjun@outlook.com](mailto:Catfox_junjun@outlook.com) | Technical cooperation, technical exchange |
+| 📧 **Email** | [CatFox_Jun@outlook.com](mailto:CatFox_Jun@outlook.com) | Technical cooperation, technical exchange |
 | 💼 **GitHub** | [github.com/AEjunjun](https://github.com/AEjunjun) | Project and Code |
 
 </div>
