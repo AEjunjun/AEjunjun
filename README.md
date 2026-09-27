@@ -6,19 +6,19 @@
 
 ---
 
-## 🛠️ 技术栈
+## 🛠️ Technology stack
 
-### 前端开发
+### Front-end development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### 后端与游戏开发
+### Backend and game development
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
-### 开发工具与平台
+### Development Tools and Platforms
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Adobe Creative Suite](https://img.shields.io/badge/Adobe_CC-DA1F26?style=flat&logo=adobe&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/FL_Studio-000000?style=flat&logo=flstudio&logoColor=white)
@@ -28,7 +28,7 @@
 
 ---
 
-## 📊 GitHub 统计仪表板
+## 📊 GitHub Statistics Dashboard
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AEjunjun&theme=tokyonight&hide_border=true&background=161b22&stroke=00d4ff&ring=7c3aed&fire=ff6e6e&currStreakLabel=00d4ff&sideLabels=9ca3af&dates=6366f1" alt="GitHub Streak" />
@@ -36,36 +36,12 @@
 
 ---
 
-## 📖 数字日志 | Digital Log
-
-<p align="center">
-  <a href="https://aejunjun.github.io/CatFoxBoke/">
-    <img src="https://custom-icon-badges.demolab.com/badge/点击访问-俊俊的空间-7E3ACE?style=for-the-badge&logo=book&logoColor=white" alt="博客徽章" />
-  </a>
-</p>
-
-> ~~一个**深色模式优先**的静态站点，承载思考、代码与创造。~~  
-
-> ~~每篇文章都在本地构建，确保速度、隐私与纯粹的表达。~~
-
-> 待更新，我真应该把它换了...
-
-
-**📌 近期更新:**
-- 🆕 游戏开发中的状态机设计模式实践
-- 🔧 Ubuntu 服务器安全加固指南
-- 🎵 如何为独立游戏创作氛围音乐
-- 💡 React 性能优化：从理论到实战
-
----
-
-## 📡 连接网络 | Connect
+## 📡 Connect
 <div align="center">
   
 | 通道 | 链接 | 描述 |
 |------|------|------|
 | 📧 **邮件** | [Catfox_junjun@outlook.com](mailto:Catfox_junjun@outlook.com) | 商务合作、技术交流 |
-| 🏠 **博客** | [aejunjun.github.io/CatFoxBoke/](https://aejunjun.github.io/CatFoxBoke/) | 文章、笔记、思考 |
 | 💼 **GitHub** | [github.com/AEjunjun](https://github.com/AEjunjun) | 项目、代码、贡献 |
 
 </div>
